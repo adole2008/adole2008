@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adole2008
 - 👀 I’m interested in your mother
-- 🌱 I’m currently learning java and python
+- 🌱 I’m currently learning java, python, and php
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me ...
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adole2008
-- 👀 I’m interested in creating apps with java and utilizing python for machine learning 👀
-- 🌱 I’m currently learning java, python, and php
+- 👀 I’m interested in doing epic things by programming
+- 🌱 I’m currently learning java, python, HTML, javascript, and CSS
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me ...
 
